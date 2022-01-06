@@ -24,5 +24,8 @@
    "workbench.colorTheme": "Visual Studio Dark",
    "terminal.integrated.gpuAcceleration": "canvas",
    "editor.defaultFormatter": "HookyQR.beautify",
-   "python.linting.mypyEnabled": false
+   "python.linting.mypyEnabled": false,
+   "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+   }
 }
