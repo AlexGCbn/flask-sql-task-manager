@@ -1,3 +1,3 @@
 web:
 python
-runp.y
+run.py
